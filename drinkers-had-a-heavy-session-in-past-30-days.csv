@@ -1,4 +1,4 @@
-Entity,Code,Year,"Indicator:Alcohol, heavy episodic drinking (15+), drinkers only, past 30 days (%) - Sex:Both sexes"
+Entity,Code,Year,"Percentage"
 Afghanistan,AFG,2016,2
 Albania,ALB,2016,44.7
 Algeria,DZA,2016,19.3
@@ -45,7 +45,7 @@ Croatia,HRV,2016,46.3
 Cuba,CUB,2016,43.4
 Cyprus,CYP,2016,40.8
 Czechia,CZE,2016,55.9
-Democratic Republic of Congo,COD,2016,77.1
+Dem. Rep. Congo,COD,2016,77.1
 Denmark,DNK,2016,40
 Djibouti,DJI,2016,40.8
 Dominica,DMA,2016,47.1
@@ -179,7 +179,7 @@ Uganda,UGA,2016,56.9
 Ukraine,UKR,2016,28.3
 United Arab Emirates,ARE,2016,39
 United Kingdom,GBR,2016,40.6
-United States,USA,2016,36.4
+United States of America,USA,2016,36.4
 Uruguay,URY,2016,32.9
 Uzbekistan,UZB,2016,39.1
 Vanuatu,VUT,2016,59.5
